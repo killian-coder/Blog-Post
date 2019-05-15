@@ -16,5 +16,5 @@ Route::get('/', function () {
 });
 
 Route::view('about','about');
-Route::view('category-page','category');
+Route::view('category','category-page');
 Route::view('post-page','post-page');
